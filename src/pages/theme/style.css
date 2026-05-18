@@ -224,10 +224,6 @@ pre>code {
   color: var(--browser-theme-text-color);
 }
 
-br {
-  display: none;
-}
-
 ul>li {
   list-style-type: " ⟐ ";
 }
